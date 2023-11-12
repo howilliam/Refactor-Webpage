@@ -41,7 +41,8 @@ N/A
 Feel free to share your thoughts on the improvements made and how the website aligns with accessibility standards. Your feedback is valuable in ensuring the website meets its objectives effectively.
 ## Credits
 
-N/A
+* [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
+* [Image `alt` attributes](https://www.w3schools.com/tags/att_img_alt.asp)
 
 ## License
 
